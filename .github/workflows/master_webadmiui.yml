@@ -35,5 +35,5 @@ jobs:
         app-name: WebAdmiUI
         slot-name: Production
         publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CDBAE3BB60D24FBAAD64722602DD8EDA }}
-        package: './dist/WebAdmiUI'
+        package: './dist/WebAdminUI'
 
